@@ -24,7 +24,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Product Info

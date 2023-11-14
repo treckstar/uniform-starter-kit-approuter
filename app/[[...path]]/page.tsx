@@ -7,7 +7,7 @@ import {
 import { resolveComponent } from "@/canvas/resolver";
 
 // This enables SSG. comment out to use SSR or ESR mode
-export { generateStaticParams } from "@uniformdev/canvas-next-rsc";
+//export { generateStaticParams } from "@uniformdev/canvas-next-rsc";
 
 // Enable for the edge mode
 export const runtime = "edge";
@@ -20,8 +20,8 @@ export default async function Home(props: PageParameters) {
       route={route}
       resolveComponent={resolveComponent}
       // Change to "static" if you want to use the SSG mode
-      mode="static"
-      //mode="server"
+      //mode="static"
+      mode="server"
     />
   );
 }

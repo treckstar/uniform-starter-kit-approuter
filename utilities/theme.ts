@@ -321,7 +321,7 @@ export const generateCustomTheme = (themeName?: string, compositionColors?: Type
   const hls = convertToHsl(colors);
 
   return `<style>
-   [data-theme=${themeName}] {
+   [data-theme=${`dark`}] {
     ${Object.entries(hls).reduce((acc, [key, value]) => {
       acc += `${key}: ${value};\n\r`;
       return acc;

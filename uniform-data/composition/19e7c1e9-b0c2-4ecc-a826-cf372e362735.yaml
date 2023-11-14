@@ -24,7 +24,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Carousel component
@@ -90,7 +90,7 @@ composition:
                       image:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       title:
                         type: text
                         value: Increased Visibility and Engagement
@@ -124,7 +124,7 @@ composition:
                       image:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       title:
                         type: text
                         value: Enhanced User Interaction
@@ -158,7 +158,7 @@ composition:
                       image:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       title:
                         type: text
                         value: Optimal Space Utilization
@@ -218,7 +218,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'
@@ -231,7 +231,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'
@@ -244,7 +244,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'
@@ -390,7 +390,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'
@@ -403,7 +403,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'
@@ -416,7 +416,7 @@ composition:
                       src:
                         type: image
                         value: >-
-                          https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+                          https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
                       width:
                         type: number
                         value: '2000'

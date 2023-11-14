@@ -23,9 +23,9 @@ const ThemeProvider: FC<ThemeProviderProps> = ({ children, data, defaultTheme })
     // The way how we can set current theme
     <div
       className={classNames('min-h-screen overflow-x-hidden flex flex-col', currentFont?.className)}
-      data-theme={themeName}
+      data-theme={`dark`}
     >
-      <div dangerouslySetInnerHTML={{ __html: generatedTheme }} />
+      
       {children}
     </div>
   );

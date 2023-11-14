@@ -24,7 +24,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Hero components
@@ -70,7 +70,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Background Image Hero variant with light text
@@ -112,7 +112,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Background Image Hero variant with dark text
@@ -267,7 +267,7 @@ composition:
           image:
             type: image
             value: >-
-              https://res.cloudinary.com/uniform-demos/image/upload/v1692276482/csk-marketing/Rectangle_7_2_uupdjo_wm94da.webp
+              https://res.cloudinary.com/dzqq20pyh/image/upload/v1699479786/polygon-bg-element-dark_sa1xbo.svg
           title:
             type: text
             value: Two Columns Hero variant
