@@ -63,7 +63,7 @@ declare namespace Types {
 
   type HorizontalAlignment = 'left' | 'center' | 'right';
 
-  type SupportedThemes = 'uniform' | 'javadrip' | 'retro' | 'dark' | 'custom';
+  type SupportedThemes = 'uniform' | 'javadrip' | 'retro' | 'dark' | 'custom' | 'sunset' | 'dim' | 'night';
 
   type ThemeColors = {
     value: string;
