@@ -329,4 +329,3 @@ export const generateCustomTheme = (themeName?: string, compositionColors?: Type
    }
   </style>`;
 };
- 

@@ -18,7 +18,7 @@ module.exports = {
     utils: true,
     logs: true,
     rtl: false,
-    themes: ['dim', 'sunset'],
+    themes: ['retro', 'dim', 'sunset'],
   },
 };
  

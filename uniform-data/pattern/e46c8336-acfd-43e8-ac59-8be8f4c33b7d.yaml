@@ -40,7 +40,7 @@ composition:
             label: Base 300
             value: '#001242'
         themeName: sunset
-        themeLabel: Sunset
+        themeLabel: Uniform
     favicon:
       type: image
       value: >-
