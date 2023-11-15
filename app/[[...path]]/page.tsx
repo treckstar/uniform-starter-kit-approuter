@@ -22,6 +22,6 @@ export default async function Home(props: PageParameters) {
       // Change to "static" if you want to use the SSG mode
       //mode="static"
       mode="server"
-    />
+    /> 
   );
-}
+} 

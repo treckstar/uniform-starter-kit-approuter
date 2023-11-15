@@ -11,7 +11,7 @@ const config: CLIConfiguration = {
       composition: {
         push: {
           // May be useful to only create new compositions and not update existing ones to avoid accidental overrides
-          mode: "create",
+          mode: "createOrUpdate",
         },
       },
       pattern: {},

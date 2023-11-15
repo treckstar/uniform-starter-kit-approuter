@@ -321,7 +321,7 @@ export const generateCustomTheme = (themeName?: string, compositionColors?: Type
   const hls = convertToHsl(colors);
 
   return `<style>
-   [data-theme=${`dark`}] {
+   [data-theme=${`sunset`}] {
     ${Object.entries(hls).reduce((acc, [key, value]) => {
       acc += `${key}: ${value};\n\r`;
       return acc;
@@ -329,3 +329,4 @@ export const generateCustomTheme = (themeName?: string, compositionColors?: Type
    }
   </style>`;
 };
+ 

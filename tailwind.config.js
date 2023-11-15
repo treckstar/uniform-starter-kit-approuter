@@ -12,12 +12,13 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography"), require("daisyui")],
   daisyui: {
-    darkTheme: 'dark',
+    darkTheme: 'dim',
     styled: true,
     base: true,
     utils: true,
     logs: true,
     rtl: false,
-    themes: ['retro', 'dark'],
+    themes: ['dim', 'sunset'],
   },
 };
+ 

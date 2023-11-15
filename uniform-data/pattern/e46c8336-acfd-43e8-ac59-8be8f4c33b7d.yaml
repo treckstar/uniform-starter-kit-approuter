@@ -39,8 +39,8 @@ composition:
           - name: base-300
             label: Base 300
             value: '#001242'
-        themeName: retro
-        themeLabel: Retro
+        themeName: sunset
+        themeLabel: Sunset
     favicon:
       type: image
       value: >-
